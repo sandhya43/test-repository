@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\sandhya\AppData\Local\Programs\Python\Python39\Scripts\code\env"
+VIRTUAL_ENV="C:\Users\sandhya\AppData\Local\Programs\Python\Python39\section7\code\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
